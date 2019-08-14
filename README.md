@@ -1,9 +1,5 @@
-# Patron de diseño Decorator
+# Instrucciones
+Los ejemplos del patrón Observer son proyectos de java
 
-**Patron comportamental**
-###Especializado para proporcionarle a los objetos funcionalidades extras en tiempo de ejecución, sin necesidad de moficar el código base.
-
-## Elementos importantes:
-
-### Component:
-define la interfaz de los objetos a los que se les puede añadir responsabilidades dinámicamente (los objetos que quiero decorar).
+Los ejemplos del patrón Module son códigos en JavaScript, para ejecutarlos se recomienda usar el siguiente IDE Online y pegar los códigos allí:
+https://playcode.io/
